@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Behzad Bakhshayesh]
+# Hi there! 👋 I'm Behzad Bakhshayesh
 
 🚀 **Full-Stack JavaScript Developer** | React.js | Next.js | Node.js | Express.js  
 
