@@ -4,9 +4,9 @@
 I specialize in building modern web applications with **React** and **Next.js** on the frontend and **Node.js** with **Express.js** on the backend. Passionate about clean code, performance optimization, and seamless user experiences.  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React.js, Next.js, Tailwind CSS, Day.js  
+- **Frontend**: React.js, Next.js,shadcn/ui, Tailwind CSS, Ant design,Material UI,Ag grid, React Router, React Query, ...  
 - **Backend**: Node.js, Express.js, REST APIs  
-- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Databases**: MongoDB, PostgreSQL  
 - **Other Tools**: Docker, Git, Webpack  
 
 ## 🌟 What I Do  
