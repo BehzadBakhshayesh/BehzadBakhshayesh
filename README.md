@@ -17,8 +17,10 @@ I specialize in building modern web applications with **React** and **Next.js** 
 
 ## 📦 Open Source & Contributions  
 I actively contribute to open-source projects and have published:  
-- [react-jalali-picker](https://www.npmjs.com/package/react-jalali-picker) - A custom Jalali date picker  
-- [url-query-formatter](https://www.npmjs.com/package/url-query-formatter) - A utility for handling URL queries  
+- [react-jalali-picker](https://www.npmjs.com/package/react-jalali-picker) - A custom Jalali date picker
+- [clean-logify](https://www.npmjs.com/package/clean-logify) - A lightweight and customizable console logger for the browser. 
+- [url-query-formatter](https://www.npmjs.com/package/url-query-formatter) - A utility for handling URL queries
+- [xml64](https://www.npmjs.com/package/xml64) - A utility package for converting between Base64 encoded strings and XML.
 
 ## 📫 Get in Touch  
 
